@@ -8,23 +8,32 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
+# site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Codewrench
+subtitle: Let's build something awesome!
 email: rawdatadaniel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Let's build something awesome!
-baseurl: "" # the subpath of your site, e.g. /blog
+  TODO - my site description
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: rawdatadaniel
-github_username:  dschilling
+author: Daniel Schilling
 
-# Build settings
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+github_url: https://github.com/dschilling
+twitter_url: https://twitter.com/rawdatadaniel
+
+# build settings
 markdown: kramdown
-theme: minima
+sass:
+  style: compressed
 plugins:
   - jekyll-feed
 
