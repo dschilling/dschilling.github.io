@@ -7,6 +7,8 @@ description: null
 image: null
 author: null
 show_tile: false
+pagination: 
+  enabled: true
 ---
 
 <h1>All posts</h1>

@@ -16,12 +16,12 @@
 title: Codewrench
 subtitle: Daniel Schilling
 description: Let's build something awesome!
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: Daniel Schilling
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
@@ -34,6 +34,12 @@ sass:
   style: compressed
 plugins:
   - jekyll-feed
+  - jekyll-paginate-v2
+timezone: America/New_York
+
+pagination:
+  enabled: false
+  per_page: 4
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
