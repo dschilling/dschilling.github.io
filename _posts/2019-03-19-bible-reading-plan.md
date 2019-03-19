@@ -25,9 +25,15 @@ categories:
 > All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work.
 > &mdash; [2 Timothy 3:16-17](https://biblehub.com/esv/2_timothy/3.htm)
 
-God's word is powerful. It's one of the primary ways that He reveals Himself to us. He wants us to know Him.  The more time that we spend in His presence submitted to Him, the more He has His way in our hearts transforming us to be more like Him.
+God's word is powerful.
+It's one of the primary ways that He reveals Himself to us. He wants us to know Him.
+The more time that we spend in His presence submitted to Him, the more He has His way in our hearts transforming us to be more like Him.
 
-Allow God to have His way in your life.  Spend time in His word.  Pray.  Recognize that you are not right and that He Is.  As we spend time in the word, He washes us ([Ephesians 5:26](https://biblehub.com/esv/ephesians/5.htm)) and transforms us ([Romans 12:2](https://biblehub.com/esv/romans/12.htm)).
+Allow God to have His way in your life.
+Spend time in His word.
+Pray.
+Recognize that you are not right and that He Is.
+As we spend time in the word, He washes us ([Ephesians 5:26](https://biblehub.com/esv/ephesians/5.htm)) and transforms us ([Romans 12:2](https://biblehub.com/esv/romans/12.htm)).
 
 Features of this plan:
 
