@@ -11,9 +11,8 @@ show_tile: false
 ---
 
 Welcome to Codewrench!
-My name is Daniel Schilling, and this is where I share my personal projects, the things I'm learning about, and my thoughts on life, the universe, and everything.
-I love lots of different things, including: math, maps, photography, robots, computer programming, 3D printing, and the Korean language.
-Most of all I love Jesus.
+My name is Daniel Schilling, and this is where I share my personal projects, the things I'm learning about, and my thoughts on math, maps, photography, robots, software development, 3D printing, the Korean language, and all the other things I love.
+More than all of those things, though, I love Jesus.
 If you love any of these things, hopefully you will find something you like here.
 
 I am a Senior Technology Consultant/Architect at [JSWco](http://jsw.co/).

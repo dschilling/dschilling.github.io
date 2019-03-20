@@ -2,7 +2,7 @@
 layout:      post
 #title:       ""
 description: >-
-  New Year's resolution? Or just longing to spend more time in the Word?
+  Longing to spend more time in the Word?
 image:       assets/images/reading-bible.jpg
 #date:        2018-12-28 01:08:19 -0500
 categories:
