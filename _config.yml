@@ -17,7 +17,7 @@ title: Codewrench
 subtitle: Daniel Schilling
 description: Let's build something awesome!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.codewren.ch" # the base hostname & protocol for your site, e.g. http://example.com
 author: Daniel Schilling
 
 # homepage tiles
@@ -27,6 +27,8 @@ tiles-count: 6
 # social settings
 github_url: https://github.com/dschilling
 twitter_url: https://twitter.com/rawdatadaniel
+linkedin_url: https://www.linkedin.com/in/daschilling/
+stackoverflow_url: https://stackoverflow.com/users/221708/daniel-schilling
 
 # build settings
 markdown: kramdown
@@ -39,7 +41,7 @@ timezone: America/New_York
 
 pagination:
   enabled: false
-  per_page: 4
+  per_page: 20
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

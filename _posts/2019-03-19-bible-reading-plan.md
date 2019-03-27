@@ -7,6 +7,7 @@ image:       assets/images/reading-bible.jpg
 #date:        2018-12-28 01:08:19 -0500
 categories:
   - Faith
+comments:    true
 ---
 
 <style type="text/css">
@@ -41,9 +42,9 @@ Features of this plan:
 * Reads completely through one book before moving on to the next, so you don't lose context
 * This is just a loose, low-stress pacing guide.  Don't worry if you don't or can't follow it exactly.
 
-Consider...
+Food for thought:
 
-* It takes less time to read the entire Bible than to read the Harry Potter series.
+* It takes less time to read the Bible than to read the Harry Potter series.
 
 <hr />
 
