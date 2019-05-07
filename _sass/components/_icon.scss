@@ -37,18 +37,18 @@
 
 	a.icon {
 		&.alt {
-			&:before {
+			&:before, &.png {
 				@include vendor('transition', 'background-color #{_duration(transition)} ease-in-out');
 			}
 
 			&:hover {
-				&:before {
+				&:before, &.png {
 					background-color: _palette(accent1);
 				}
 			}
 
 			&:active {
-				&:before {
+				&:before, &.png {
 					background-color: desaturate(darken(_palette(accent1), 15), 5);
 				}
 			}
